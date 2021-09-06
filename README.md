@@ -10,3 +10,4 @@ Project includes schematic and layout of the PCB. This project is a work in prog
 2. PCB prototpye from JLC PCB.
 3. Datasheets of components used.
 4. Pictures and video demonstration of a working prototype.
+5. Report discussing my thought process behind the design and reasoning for chosing certain components. 
