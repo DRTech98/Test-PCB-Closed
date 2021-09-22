@@ -10,4 +10,4 @@ how to make a proper footprint and schematic symbol from scratch and to test the
 see if the LEDs work accordingly. LED driver was soldered on with a rework station and the rest of the components
 were soldered on with a soldering iron. Project includes schematic, PCB, BOM, and report discussing how I created the 
 circuit and my reasoning for selecting certain components (report is currently a work in progress).
-\
+
