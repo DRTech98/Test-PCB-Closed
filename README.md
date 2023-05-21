@@ -1,4 +1,4 @@
-# Test-PCB-Work In Progress-
+# Test-PCB- (Closed)
 A PCB I designed to test a custom footprint I made for an 8-SOP IC LED driver. 
 This LED driver can handle up to 2.32W meaning that at 80% capacity the IC can withstand 1.856W. 
 Using a 12V power supply, LEDs are placed 3 at a time in parallel. 
